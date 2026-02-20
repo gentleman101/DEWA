@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+requests
+openpyxl
+google-genai
+python-dotenv
